@@ -1,0 +1,23 @@
+
+
+div.tend{
+       padding: 5px;
+       color: darkcyan;
+       text-align: center;
+        overflow: hidden;
+       position:absolute;bottom:0;
+       margin-left: auto;
+       margin-right: auto;
+}
+ /*.blured{
+       border-radius: 25px;
+        z-index: -10;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        filter: blur(4px);
+        opacity: 0.5;
+        background-color: gray;
+    }*/
